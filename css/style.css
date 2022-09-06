@@ -13,3 +13,54 @@ h1 {
   font-style: italic;
   display: inline;
 }
+.task {
+  background-color: lightblue;
+  color: white;
+  border-radius: 4px;
+  padding: 6px;
+}
+.section {
+  background-color: white;
+  color: grey;
+  border-radius: 4px;
+  padding: 6px;
+}
+.editorial {
+  background-color: lightblue;
+  color: white;
+  border-radius: 10px;
+  padding: 4px;
+}
+.goals {
+  background-color: violet;
+  color: white;
+  border-radius: 10px;
+  padding: 4px;
+  
+}
+.recruiting {
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  padding: 4px;
+}
+.mobile {
+  background-color: orange;
+  color: white;
+  border-radius: 10px;
+  padding: 4px;
+}
+.website {
+  background-color: rosybrown;
+  color: white;
+  border-radius: 10px;
+  padding: 4px;
+
+}
+.sales {
+  background-color: greenyellow;
+  color: white;
+  border-radius: 10px;
+  padding: 4px;
+
+}
